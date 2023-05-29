@@ -1,5 +1,7 @@
 # bci-feedback
 
+> **_NOTE:_**  Copied From [Tran-Research-Group](https://github.com/Tran-Research-Group)
+
 ## Setting up the Environment
 
 See ```onboard.md``` for more detailed instructions.
