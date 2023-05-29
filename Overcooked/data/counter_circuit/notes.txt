@@ -1,0 +1,5 @@
+trial_1 :   score 20    notes:  agent did awful. Just randomly moved around
+trial_2 :   score 40    notes:  agent did slightly better, actually doing its job
+trial_3 :   score 40    notes:  agent works in circles around counter. I'm learning to work with him better
+trial_4 :   score 40    notes:  same result as last time
+trial_5 :   score 20    notes:  agent stopped working. very frustrating

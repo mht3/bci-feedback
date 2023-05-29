@@ -1,0 +1,5 @@
+trial_1 :   score 100   notes:  agent did most of the work due to the setup. Very nice
+trial_2 :   score 100   notes:  tried to help with just using the plates, got same result
+trial_3 :   score 100   notes:  agent and I worked separately because there are 2 stoves
+trial_4 :   score 80    notes:  agent stopped working while I served my food
+trial_5 :   score 80    notes:  agent stopped working again. Not as good as first 3 trials

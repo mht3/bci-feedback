@@ -1,0 +1,5 @@
+trial_1 :   score 0   notes:  agent did not serve dish. Just stood with bowl in hand.
+trial_2 :   score 60   notes:  agent worked together more than the first trial
+trial_3 :   score 40   notes:  tried to give agent a bowl but they did not grab it
+trial_4 :   score 60    notes:  agent got in my way a few times, losing us time
+trial_5 :   score 20    notes:  agent got in my way and did not do their job. 0/10

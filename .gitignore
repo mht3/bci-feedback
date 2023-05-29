@@ -1,0 +1,4 @@
+# Files/folders to ignore
+.vscode
+brainflow_examples/data/**
+brainflow_examples/.ipynb_checkpoints

@@ -1,0 +1,5 @@
+trial_1 :   score 60   notes:  worked well with agent. Forced to work together in this setup
+trial_2 :   score 20   notes:  agent picked up bowl instead of cooking onions. Stopped working
+trial_3 :   score 20   notes:  agent stopped working again until 10 seconds left. Cannot do this on his own.
+trial_4 :   score 60   notes:  agent worked well with me again. Got into a good rhythm 
+trial_5 :   score 80   notes:  Best one yet out of 5 trials. Worked very well together.
